@@ -1,8 +1,11 @@
-\* {
+* {
   text-decoration: none;
   box-sizing: border-box;
   letter-spacing: 0.1em;
   font-family: 'M PLUS 1p', sans-serif;
+}
+a {
+  text-decoration: none !important;
 }
 .container {
   max-width: 1000px;
