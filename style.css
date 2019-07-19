@@ -1,4 +1,4 @@
-* {
+\* {
   text-decoration: none;
   box-sizing: border-box;
   letter-spacing: 0.1em;
@@ -142,7 +142,7 @@
 .header-txt h1 {
   color: #fff;
   font-size: 60px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 /* about */
